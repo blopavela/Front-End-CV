@@ -1,0 +1,14 @@
+
+body {
+    background-image: url(../img/01.jpg);
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    opacity: 0.7;
+}
